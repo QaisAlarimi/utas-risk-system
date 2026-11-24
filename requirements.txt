@@ -1,0 +1,10 @@
+streamlit>=1.50
+sqlalchemy>=2.0
+pandas
+openpyxl
+scikit-learn==1.6.1
+joblib
+altair
+pymysql
+numpy<2.3
+plotly
